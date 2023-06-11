@@ -1,0 +1,155 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\.75478a5a95a0405a96e95dd023ff9c3912b2701f-audit.json",
+    "files": [
+        {
+            "date": 1685863816711,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-04-13-success.log",
+            "hash": "d1fe71c305da139396bc489cf634fbf0175abfc7b00c5fbfabfbd083e1093f81"
+        },
+        {
+            "date": 1685874280381,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-04-16-success.log",
+            "hash": "7df4d92d598fcd2f6286a016aee619ded6f277391b257255f21b1679f6f779c1"
+        },
+        {
+            "date": 1685890217781,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-04-20-success.log",
+            "hash": "3922d02ca5587838f8daa6e715e202fc59ac42e7a556c528ea694a13002b113c"
+        },
+        {
+            "date": 1685891316451,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-04-21-success.log",
+            "hash": "276dcbae4cdf359ece66f52b397fb5e4dafe8a602f1ebd799edb360480c3cbce"
+        },
+        {
+            "date": 1685896630656,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-04-22-success.log",
+            "hash": "ff258adc34e0ceb9fabc93d944b928033fce1f0a899e0c43bcb6dd574f376387"
+        },
+        {
+            "date": 1685945724536,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-05-12-success.log",
+            "hash": "abe14a28199ed58fb29095b33e3d355cb219ae7bb74edb8c3980cd1811789ba0"
+        },
+        {
+            "date": 1685948478334,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-05-13-success.log",
+            "hash": "b90278837a0360801440759fdeddc2c6920152462ed7e3c162461a2fca2254e4"
+        },
+        {
+            "date": 1685987813388,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-05-23-success.log",
+            "hash": "ab1b509553c0737516be512f0a67c2eb222bb03371eff8df72cd2e741f9227ed"
+        },
+        {
+            "date": 1685988000869,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-00-success.log",
+            "hash": "bc5ff8833a8fea68c0d1b1fd3ea659cbe110dd33d72016afd7516d723f31c8b5"
+        },
+        {
+            "date": 1686034783112,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-12-success.log",
+            "hash": "12c76f7326a08c202acd12e6db21b6ea717243dc7164e32678a6a5377c902504"
+        },
+        {
+            "date": 1686034809967,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-06-13-success.log",
+            "hash": "1ce2dd78480d6d13a3a3cb7a9c347492dfdf8f4e125899bdae3b9cb026dfd75b"
+        },
+        {
+            "date": 1686121466385,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-13-success.log",
+            "hash": "d2d23242dbfe5dcf098049bbf536a3ea605c002b355ba92589b58ec6d57821f7"
+        },
+        {
+            "date": 1686125742589,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-14-success.log",
+            "hash": "12a7e2306aeb3c6ba4b5ccfe929dba533e06d7210b39eaf90f914dea07bb82bf"
+        },
+        {
+            "date": 1686147109898,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-20-success.log",
+            "hash": "c1c68b4cdee42190e075408e2f60f5a8d37fe4c7fd823aab29b276e3d878b783"
+        },
+        {
+            "date": 1686152698826,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-21-success.log",
+            "hash": "9bec58a9fdf71acb25a387d04c96334d70e732547470c817657c326526ed5e3d"
+        },
+        {
+            "date": 1686156662803,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-22-success.log",
+            "hash": "5857cdf173e8cd2831f4667e78c446f8969b67cbd01748dc020bad9c578daa74"
+        },
+        {
+            "date": 1686157455448,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-07-23-success.log",
+            "hash": "87653515f852f8f67110d1cc3ae6cda46baa2c0135c11605efab3f33d90b64c7"
+        },
+        {
+            "date": 1686203597942,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-08-11-success.log",
+            "hash": "9f1c1f43d8d05977769fd4f5e6d06fb1d03bc3ae51109a4633796828c9853d67"
+        },
+        {
+            "date": 1686236534371,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-08-21-success.log",
+            "hash": "7756aa894a363d15ddfbff002b15cff4f70e763dd4d384ddfbde4680b078aa2f"
+        },
+        {
+            "date": 1686243798762,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-08-23-success.log",
+            "hash": "fb1e3dd5cf07dd78be1679ec835cd93f6cfadeb98f3bc5da2d1c5b5efae99cbb"
+        },
+        {
+            "date": 1686321166140,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-09-20-success.log",
+            "hash": "2530d122c43ce6051eb4db79c1757ae96abea5cd9fed23c2bc9a103a9e752d75"
+        },
+        {
+            "date": 1686329872378,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-09-22-success.log",
+            "hash": "fade5a71b927bdc697ac340a6bd54356b238bbfa88d99f9f7936d56acc34574b"
+        },
+        {
+            "date": 1686330089156,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-09-23-success.log",
+            "hash": "7cac2e49c02f60cc458da2e8d0709975ffab7806be8bdb25273992c955af3ca9"
+        },
+        {
+            "date": 1686409283583,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-10-21-success.log",
+            "hash": "cbf0136f58890a971333cb31c0e60b7ad442beef62c94e6f1629fbcd21744bbe"
+        },
+        {
+            "date": 1686414704783,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-10-22-success.log",
+            "hash": "493785a2652f46b97659f0e6647620de3495cfb7a39a75e0647af32aef64f220"
+        },
+        {
+            "date": 1686416492792,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-10-23-success.log",
+            "hash": "73862507dede7ffe3dc17e7619eaeb9031f6e12221fccd8d888310315fea7e29"
+        },
+        {
+            "date": 1686457923677,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-11-10-success.log",
+            "hash": "b4f47521222f130ba45ffe5b9c8c839134bad61fedf6ce98fa1688867a09b10c"
+        },
+        {
+            "date": 1686459929287,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-11-11-success.log",
+            "hash": "e49ec2667485e3f21e99faa262e4852a0bb839289c22133cb2271d576ebdd9d8"
+        },
+        {
+            "date": 1686463523628,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-11-12-success.log",
+            "hash": "75af0a695e77181b96493442e20fe2e3162328409b292338979dc162c2b1276c"
+        }
+    ],
+    "hashType": "sha256"
+}

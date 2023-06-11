@@ -1,0 +1,24 @@
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH University',
+  timestamp: '2023-06-04T07:26:07.452Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  label: 'PH University',
+  timestamp: '2023-06-04T07:26:07.461Z'
+}
+{
+  message: 'Database connected successfully',
+  level: 'info',
+  label: 'PH University',
+  timestamp: '2023-06-04T07:26:27.902Z'
+}
+{
+  message: 'Example app listening on port 5000',
+  level: 'info',
+  label: 'PH University',
+  timestamp: '2023-06-04T07:26:27.914Z'
+}

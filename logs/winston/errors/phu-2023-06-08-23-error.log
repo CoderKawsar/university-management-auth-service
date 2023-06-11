@@ -1,0 +1,48 @@
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.otylb.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect to Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'right meow!',
+  timestamp: '2023-06-08T17:22:34.521Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.otylb.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect to Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'right meow!',
+  timestamp: '2023-06-08T17:23:01.947Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.otylb.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect to Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'right meow!',
+  timestamp: '2023-06-08T17:23:05.188Z'
+}
+{
+  errno: undefined,
+  code: 'ECONNREFUSED',
+  syscall: 'querySrv',
+  hostname: '_mongodb._tcp.cluster0.otylb.mongodb.net',
+  level: 'error',
+  message: 'Failed to connect to Database querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net',
+  stack: 'Error: querySrv ECONNREFUSED _mongodb._tcp.cluster0.otylb.mongodb.net\n' +
+    '    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)',
+  label: 'right meow!',
+  timestamp: '2023-06-08T17:23:25.124Z'
+}

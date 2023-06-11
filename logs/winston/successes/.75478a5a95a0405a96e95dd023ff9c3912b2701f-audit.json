@@ -149,6 +149,16 @@
             "date": 1686463523628,
             "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-11-12-success.log",
             "hash": "75af0a695e77181b96493442e20fe2e3162328409b292338979dc162c2b1276c"
+        },
+        {
+            "date": 1686473589994,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-11-14-success.log",
+            "hash": "a32fb517c74b453f9d2983660996b3f665eb7b4cc57fea0302592325540f7c4c"
+        },
+        {
+            "date": 1686481402472,
+            "name": "D:\\Courses\\Programming Hero\\Level 2\\university-management\\university-management-auth-service\\logs\\winston\\successes\\phu-2023-06-11-17-success.log",
+            "hash": "164eaf42b466d996c6de9f9530e19e2da542a507c794d9275b47677593529078"
         }
     ],
     "hashType": "sha256"

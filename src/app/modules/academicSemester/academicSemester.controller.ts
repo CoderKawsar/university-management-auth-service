@@ -29,8 +29,10 @@ const createSemester = catchAsync(
 const getAllSemesters = catchAsync(
   async (req: Request, res: Response, next: NextFunction) => {
     const paginationOptions = pick(req.query, paginationFields)
+    const filters = pick(req.query, ['searchTerm'])
 
     const result = await AcamedicSemesterService.getAllSemesters(
+      filters,
       paginationOptions
     )
 

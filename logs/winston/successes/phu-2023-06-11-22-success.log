@@ -2,131 +2,119 @@
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:03:24.532Z'
+  timestamp: '2023-06-11T16:29:53.807Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:03:24.544Z'
+  timestamp: '2023-06-11T16:29:53.816Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:11:40.852Z'
+  timestamp: '2023-06-11T16:43:04.804Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:11:40.875Z'
+  timestamp: '2023-06-11T16:43:04.813Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:19:26.035Z'
+  timestamp: '2023-06-11T16:44:29.203Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:19:26.045Z'
+  timestamp: '2023-06-11T16:44:29.213Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:21:03.109Z'
+  timestamp: '2023-06-11T16:45:13.573Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:21:03.121Z'
+  timestamp: '2023-06-11T16:45:13.584Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:22:09.987Z'
+  timestamp: '2023-06-11T16:45:57.524Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:22:09.999Z'
+  timestamp: '2023-06-11T16:45:57.534Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:26:01.510Z'
+  timestamp: '2023-06-11T16:46:37.604Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:26:01.525Z'
+  timestamp: '2023-06-11T16:46:37.614Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:29:49.550Z'
+  timestamp: '2023-06-11T16:46:55.494Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:29:49.560Z'
+  timestamp: '2023-06-11T16:46:55.504Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:29:55.988Z'
+  timestamp: '2023-06-11T16:52:03.982Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:29:56.002Z'
+  timestamp: '2023-06-11T16:52:04.000Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:31:29.931Z'
+  timestamp: '2023-06-11T16:55:32.032Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:31:29.945Z'
+  timestamp: '2023-06-11T16:55:32.042Z'
 }
 {
   message: 'Database connected successfully',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:31:56.504Z'
+  timestamp: '2023-06-11T16:59:03.928Z'
 }
 {
   message: 'Example app listening on port 5000',
   level: 'info',
   label: 'PH University',
-  timestamp: '2023-06-11T11:31:56.517Z'
-}
-{
-  message: 'Database connected successfully',
-  level: 'info',
-  label: 'PH University',
-  timestamp: '2023-06-11T11:34:50.689Z'
-}
-{
-  message: 'Example app listening on port 5000',
-  level: 'info',
-  label: 'PH University',
-  timestamp: '2023-06-11T11:34:50.699Z'
+  timestamp: '2023-06-11T16:59:03.938Z'
 }

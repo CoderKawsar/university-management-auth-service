@@ -14,5 +14,12 @@ router.post(
 
 // get all semster data with pagination and query
 router.get('/', AcademicSemesterController.getAllSemesters)
+router.get('/:id', AcademicSemesterController.getSingleSemester)
+router.patch(
+  '/:id',
+  validateRequest(AcademicSemesterValidation.updateAcademicSemesterZodSchema),
+  AcademicSemesterController.updateSingleSemester
+)
+router.delete('/:id', AcademicSemesterController.deleteSingleSemester)
 
 export const AcademicSemesterRoutes = router

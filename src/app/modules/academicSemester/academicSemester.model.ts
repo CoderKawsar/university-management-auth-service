@@ -11,21 +11,26 @@ import {
   IAcademicSemester,
 } from './academicSemester.interface'
 
-const AcademicSemesterSchema = new Schema<IAcademicSemester>({
-  title: { type: String, required: true, enum: academicSemesterTitles },
-  year: { type: String, required: true },
-  code: { type: String, required: true, enum: academicSemesterCodes },
-  startMonth: {
-    type: String,
-    required: true,
-    enum: months,
+const AcademicSemesterSchema = new Schema<IAcademicSemester>(
+  {
+    title: { type: String, required: true, enum: academicSemesterTitles },
+    year: { type: String, required: true },
+    code: { type: String, required: true, enum: academicSemesterCodes },
+    startMonth: {
+      type: String,
+      required: true,
+      enum: months,
+    },
+    endMonth: {
+      type: String,
+      required: true,
+      enum: months,
+    },
   },
-  endMonth: {
-    type: String,
-    required: true,
-    enum: months,
-  },
-})
+  {
+    timestamps: true,
+  }
+)
 
 AcademicSemesterSchema.pre('save', async function (next) {
   const isExist = await AcademicSemester.findOne({
